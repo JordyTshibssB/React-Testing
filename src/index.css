@@ -33,6 +33,11 @@ a:hover {
   color: #fff;
   padding: 0.2rem 1rem;
   border-radius: 5px;
+  margin-top: 25px;
+}
+
+.btn:disabled {
+  opacity: 0.5;
 }
 
 .input {
